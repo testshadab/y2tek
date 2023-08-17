@@ -5,61 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6c8397b-5280-4153-8bf2-999eb9087d24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/lib/ListenerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/application.html" beforeDir="false" afterPath="$PROJECT_DIR$/log/application.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/testlog.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/testlog.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/testlog1.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/testlog1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/BaseClass/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/baseclass/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/Config/Conf.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/config/Conf.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/Config/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/config/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/TestPackage/BackTestPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/testpackage/BackTestPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/TestPackage/BotServicePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/testpackage/BotServicePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/TestPackage/DashBoardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/testpackage/DashBoardPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/TestPackage/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/testpackage/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/TestPackage/PaperTradingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/testpackage/PaperTradingPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/TestPackage/TransactionsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/testpackage/TransactionsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/TestPackage/WalletPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/testpackage/WalletPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/lib/ListnerImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/lib/RetryFailedTestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/lib/RetryFailedTestCases.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/lib/RetryListenerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/lib/RetryListenerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/lib/TakeScreenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/lib/TakeScreenshot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/lib/WebElementListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/lib/WebElementListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/TestCase/BackTestPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcase/BackTestPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/TestCase/BotServicePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcase/BotServicePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/TestCase/DashBoardPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcase/DashBoardPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/TestCase/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcase/LoginPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/TestCase/PaperTradingPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcase/PaperTradingPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/TestCase/TransactionsPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcase/TransactionsPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/TestCase/WalletPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcase/WalletPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/BaseClass/BaseClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/BaseClass/BaseClass$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/BaseClass/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/BaseClass/BaseClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/BackTestPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/BackTestPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/BotServicePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/BotServicePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/DashBoardPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/DashBoardPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/PaperTradingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/PaperTradingPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/TransactionsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/TransactionsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/WalletPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/WalletPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/lib/ListnerImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/lib/RetryFailedTestCases.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/lib/RetryFailedTestCases.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/lib/RetryListenerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/lib/RetryListenerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/lib/TakeScreenshot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/lib/TakeScreenshot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/lib/WebElementListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/lib/WebElementListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/BackTestPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/BackTestPageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/BotServicePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/BotServicePageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/DashBoardPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/DashBoardPageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/LoginPageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/PaperTradingPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/PaperTradingPageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/TransactionsPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/TransactionsPageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/WalletPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/WalletPageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/STMExtentReport1.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/STMExtentReport1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,18 +27,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Desktop/Y2Tek_17/y2tek-int-ui-automation&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Admin/Desktop/Faijan Code check git igone/y2tek/.idea",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\Faijan Code check git igone\y2tek\.idea" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.qa.constants" />
     </key>
