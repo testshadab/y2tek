@@ -1,8 +1,0 @@
-# Ignore target folder
-target/
-# IntelliJ IDEA
-.idea/
-# Eclipse
-.classpath
-.project
-.settings/
