@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6c8397b-5280-4153-8bf2-999eb9087d24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/lib/ListenerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/application.html" beforeDir="false" afterPath="$PROJECT_DIR$/log/application.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/testlog.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/testlog.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/testlog1.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/testlog1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/BaseClass/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/baseclass/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/Config/Conf.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/config/Conf.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/Config/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/config/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/TestPackage/BackTestPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/testpackage/BackTestPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/TestPackage/BotServicePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/testpackage/BotServicePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/TestPackage/DashBoardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/testpackage/DashBoardPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/TestPackage/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/testpackage/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/TestPackage/PaperTradingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/testpackage/PaperTradingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/TestPackage/TransactionsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/testpackage/TransactionsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/TestPackage/WalletPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/testpackage/WalletPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/lib/ListnerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/lib/RetryFailedTestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/lib/RetryFailedTestCases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/lib/RetryListenerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/lib/RetryListenerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/lib/TakeScreenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/lib/TakeScreenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/lib/WebElementListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/lib/WebElementListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/TestCase/BackTestPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcase/BackTestPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/TestCase/BotServicePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcase/BotServicePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/TestCase/DashBoardPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcase/DashBoardPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/TestCase/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcase/LoginPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/TestCase/PaperTradingPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcase/PaperTradingPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/TestCase/TransactionsPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcase/TransactionsPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/TestCase/WalletPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcase/WalletPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/BaseClass/BaseClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/BaseClass/BaseClass$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/BaseClass/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/BaseClass/BaseClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/BackTestPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/BackTestPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/BotServicePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/BotServicePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/DashBoardPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/DashBoardPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/PaperTradingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/PaperTradingPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/TransactionsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/TransactionsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/WalletPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/TestPackage/WalletPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/lib/ListnerImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/lib/RetryFailedTestCases.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/lib/RetryFailedTestCases.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/lib/RetryListenerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/lib/RetryListenerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/lib/TakeScreenshot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/lib/TakeScreenshot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/lib/WebElementListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/lib/WebElementListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/BackTestPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/BackTestPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/BotServicePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/BotServicePageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/DashBoardPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/DashBoardPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/LoginPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/PaperTradingPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/PaperTradingPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/TransactionsPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/TransactionsPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/WalletPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/qa/TestCase/WalletPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/STMExtentReport1.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/STMExtentReport1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2U6H5lyRGWY00u7gGP8gY5HRmBA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Desktop/Y2Tek_17/y2tek-int-ui-automation&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qa.constants" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.BackTestPageTest.backTestDelete">
+    <configuration name="BackTestPageTest.backTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="y2tek_ui_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.TestCase" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcase.BackTestPageTest" />
+      <option name="METHOD_NAME" value="backTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackTestPageTest.backTestDelete" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="y2tek_ui_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcase.BackTestPageTest" />
+      <option name="METHOD_NAME" value="backTestDelete" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackTestPageTest.backTestWithoutData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="y2tek_ui_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.TestCase" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcase.BackTestPageTest" />
+      <option name="METHOD_NAME" value="backTestWithoutData" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Admin/Desktop/Y2Tek_17/y2tek-int-ui-automation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="y2tek_ui_automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.theLandingPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="y2tek_ui_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.TestCase" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcase.LoginPageTest" />
+      <option name="METHOD_NAME" value="theLandingPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.BackTestPageTest.backTestDelete" />
+        <item itemvalue="TestNG.LoginPageTest.theLandingPage" />
+        <item itemvalue="TestNG.BackTestPageTest.backTestWithoutData" />
+        <item itemvalue="TestNG.C:/Users/Admin/Desktop/Y2Tek_17/y2tek-int-ui-automation/testng.xml" />
+        <item itemvalue="TestNG.BackTestPageTest.backTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6c8397b-5280-4153-8bf2-999eb9087d24" name="Changes" comment="" />
+      <created>1692252934701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692252934701</updated>
+    </task>
+    <servers />
+  </component>
+</project>
