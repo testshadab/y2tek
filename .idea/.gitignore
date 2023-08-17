@@ -1,6 +1,8 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-/target/
+# Ignore target folder
+target/
+# IntelliJ IDEA
+.idea/
+# Eclipse
 .classpath
 .project
+.settings/
